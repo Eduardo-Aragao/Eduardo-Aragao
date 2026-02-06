@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Eduardo
 
-Sou estudante de **desenvolvimento de software**, com foco em **backend**.  
-Atualmente construo **projetos em Java** para fortalecer minha base em programação, explorar conceitos de backend e entender como sistemas do mundo real funcionam na prática.
+Sou estudante de desenvolvimento de software, com foco em backend.  
+Atualmente construo projetos em Java para fortalecer minha base em programação, explorar conceitos de backend e entender como sistemas do mundo real funcionam na prática.
 
 ## 🚀 Tech Stack
 <p align="left">
