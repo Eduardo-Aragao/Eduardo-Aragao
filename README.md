@@ -1,6 +1,43 @@
-## 📊 Minhas Estatísticas
+<h1 align="center"> Olá, me chamo <strong>Eduardo Aragão</strong>!</h1>
+<h3 align="center">🚀 Estudante de Engenharia de Software e futuro Desenvolvedor Full Stack</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Aragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Aragao&layout=compact&theme=dracula&hide=html,css,javascript" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
+🎯 Atualmente estudando <strong>Desenvolvimento Back-end</strong>.<br>
+🌱 Focado em evoluir tanto no <strong>Front-end</strong> quanto no <strong>Back-end</strong>.<br>
+</p>
+
+---
+
+## 🧠 Sobre mim
+- 🎓 Estudante de **Engenharia de Software** na FAMETRO  
+- 💼 Trabalhando em projetos da faculdade e começando projetos pessoais  
+- ⚙️ Aprendendo a construir aplicações completas, do design à lógica de negócio  
+- 🧩 Gosto de entender **como as coisas funcionam por trás do código**  
+- ☕ Café e música são meus aliados na hora de programar  
+
+---
+
+## 💻 Tecnologias e Ferramentas
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🌟 Objetivos atuais
+🚧 Desenvolver aplicações completas com **Front-end e Back-end integrados**  
+📚 Aprimorar meus conhecimentos em **Python, Java e Frameworks**  
+💡 Criar projetos pessoais que mostrem minha evolução como Full Stack 
+
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:eduardo.aragaosoft@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-s-aragao">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
