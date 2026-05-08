@@ -19,7 +19,7 @@
 ---
 
 ## 💻 Tecnologias e Ferramentas
-[![Minhas Habilidades](https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,java,html,css,js,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
