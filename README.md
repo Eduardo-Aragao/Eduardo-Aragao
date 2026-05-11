@@ -1,10 +1,10 @@
 <h1 align="center"> Olá, me chamo <strong>Eduardo Aragão</strong>!</h1>
-<h3 align="center">🚀 Estudante de Engenharia de Software e futuro Desenvolvedor Full Stack</h3>
+<h3 align="center">🚀 Estudante de Engenharia de Software e futuro Desenvolvedor</h3>
 
 <p align="center">
 💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
 🎯 Atualmente estudando <strong>Desenvolvimento Back-end</strong>.<br>
-🌱 Focado em evoluir tanto no <strong>Front-end</strong> quanto no <strong>Back-end</strong>.<br>
+🌱 Tenho paixão por pentest e hacking.<br>
 </p>
 
 ---
