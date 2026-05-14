@@ -1,7 +1,7 @@
-<h1 align="center"> Olá, me chamo <strong>Eduardo Aragão</strong>!</h1>
-<h3 align="center">🚀 Estudante de Engenharia de Software e futuro Desenvolvedor</h3>
+<h1 align="left"> Olá, me chamo <strong>Eduardo Aragão</strong>!</h1>
+<h3 align="left">🚀 Estudante de Engenharia de Software</h3>
 
-<p align="center">
+<p align="left">
 💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
 🎯 Atualmente estudando <strong>Desenvolvimento Back-end</strong>.<br>
 🌱 Tenho paixão por pentest e hacking.<br>
