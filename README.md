@@ -4,7 +4,6 @@
 <p align="left">
 💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
 🎯 Atualmente estudando <strong>Desenvolvimento Back-end</strong>.<br>
-🌱 Tenho paixão por pentest e hacking.<br>
 </p>
 
 ---
