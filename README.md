@@ -3,13 +3,13 @@
 
 <p align="left">
 💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
-🎯 Atualmente estudando <strong>Desenvolvimento Back-end</strong>.<br>
+🎯 Atualmente estudando <strong>Desenvolvimento de Testes e Técnicas de teste de software</strong>.<br>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
-- 🎓 Estudante de **Engenharia de Software** na FAMETRO  
+- 🎓 Estudante no 5° período de **Engenharia de Software** na FAMETRO  
 - 💼 Trabalhando em projetos da faculdade e começando projetos pessoais  
 - ⚙️ Aprendendo a construir aplicações completas, do design à lógica de negócio  
 - 🧩 Gosto de entender **como as coisas funcionam por trás do código**  
@@ -23,9 +23,9 @@
 ---
 
 ## 🌟 Objetivos atuais
-🚧 Desenvolver aplicações completas com **Front-end e Back-end integrados**  
-📚 Aprimorar meus conhecimentos em **Python, Java e Frameworks**  
-💡 Criar projetos pessoais que mostrem minha evolução como Full Stack 
+🚧 Desenvolver automações de teste de software
+📚 Aprimorar meus conhecimentos em **Python, Selenium, Appium e Robot**  
+💡 Criar projetos pessoais que mostrem minha evolução 
 
 
 ## 📬 Contato
