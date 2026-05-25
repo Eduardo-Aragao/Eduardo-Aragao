@@ -23,7 +23,7 @@
 ---
 
 ## 🌟 Objetivos atuais
-🚧 Desenvolver automações de teste de software
+🚧 Desenvolver automações de **testes de software**  
 📚 Aprimorar meus conhecimentos em **Python, Selenium, Appium e Robot**  
 💡 Criar projetos pessoais que mostrem minha evolução 
 
